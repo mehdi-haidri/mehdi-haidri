@@ -1,4 +1,5 @@
 
+<img src="75a1691c-db20-4153-a270-574f999c13d7-5b77aff6d587.webp"/>
 
 <h1 align="center">Hi 👋, I'm Haidri Elmahdi</h1>
 <h3 align="center">A passionate full stack developer</h3>
